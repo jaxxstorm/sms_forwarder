@@ -6,7 +6,7 @@ idna==2.7
 itsdangerous==1.0.0
 jinja2==2.10
 markupsafe==1.0
-pyjwt==1.6.4
+pyjwt==2.4.0
 pysocks==1.6.8; python_version >= '3.0'
 pytz==2018.6
 requests==2.20.0; python_version >= '3.0'
