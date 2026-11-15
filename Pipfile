@@ -1,13 +1,13 @@
 [[source]]
-url = "https://pypi.python.org/simple"
+url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
 [dev-packages]
 
 [packages]
-twilio = "*"
-flask = "*"
+twilio = "==9.13.0"
+flask = "==3.1.3"
 
 [requires]
-python_version = "3.6"
+python_version = "3.12"
